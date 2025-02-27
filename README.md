@@ -83,7 +83,7 @@ The service can be accessed on this address:- 10.103.129.76:30001
 ================
 ```
 # 7. Limitations
-Assumes Deployment is named nginx-deployment in namespace nginx-ns.
+Assumes Deployment is named nginx-deployment in namespace app-ns.
 Requires NodePort service on port 30001.
 Timeout values may need adjustment for slower clusters.
 
